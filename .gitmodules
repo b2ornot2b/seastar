@@ -4,3 +4,6 @@
 [submodule "fmt"]
 	path = fmt
 	url = ../fmt
+[submodule "spdk"]
+	path = spdk
+	url = https://github.com/b2ornot2b/spdk.git
